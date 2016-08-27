@@ -12,6 +12,16 @@ Configuration
 Running the code
 ================
 
+Syntax:
+```
+./adc_rlm_ovc <XML_config_file> <clipName>
+```
+
+Example:
+```
+./adc_rlm_ovc i5s.xml clip_i5s_0096
+```
+
 Output
 ======
 
