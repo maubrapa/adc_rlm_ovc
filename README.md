@@ -10,6 +10,8 @@ Requirements
 ============
 The system was implemented and tested in C++ (GCC 4.8.2 compiler), using the Open source Computer Vision library (shortly OpenCV) Version 2.4.9 and the Open Multi-Processing (OpenMP) API.
 
+The dataset used in this work with the corresponding ground truth data, as well as video sequences showing the results of our method, are publicly available at http://inf.ufrgs.br/∼mbpaula/roadLaneMarkings/.
+
 Configuration
 =============
 
