@@ -1,0 +1,154 @@
+<?xml version="1.0"?>
+<opencv_storage>
+
+    <!-- #####################  -->
+    <!--      iPhone 5 CLIPS    -->
+    <!-- #####################  -->
+
+    <clip_i5s_0085>
+        <path_in>/datasets/i5s_BR116/</path_in>
+        <path_out>./out/</path_out>
+        <fileName>clip_i5s_0085.MOV</fileName>
+        <type_lane_marking>DASHED</type_lane_marking>
+        <f type_id="opencv-matrix">
+            <rows>1</rows>
+            <cols>2</cols>
+            <dt>f</dt>
+            <data>1.8187777622509432e+03 1.8187777622509432e+03</data>
+        </f>
+        <c type_id="opencv-matrix">
+            <rows>1</rows>
+            <cols>2</cols>
+            <dt>f</dt>
+            <data>9.5950000000000000e+02 5.3950000000000000e+02</data>
+        </c>
+    <extrinsic type_id="opencv-matrix">
+        <rows>1</rows>
+        <cols>3</cols>  <!-- alpha, beta, h -->
+        <dt>f</dt>
+        <data>5.99505 -0.845188 1.21962</data>
+    </extrinsic>
+        <framesToTrain>200</framesToTrain>
+        <framesToTest>0</framesToTest>
+        <initFrame>0</initFrame>
+        <refLane>left</refLane>
+        <u>376</u>
+        <v>790</v>
+        <w>1200</w>
+        <h>265</h>
+        <iV>0</iV>
+        <eV>240</eV>
+        <speedVeh>0.0</speedVeh>
+    </clip_i5s_0085>
+
+    <clip_i5s_0094>
+        <path_in>/datasets/i5s_BR116/</path_in>
+        <path_out>./out/</path_out>
+        <fileName>clip_i5s_0094.MOV</fileName>
+        <type_lane_marking>DASHED</type_lane_marking>
+        <f type_id="opencv-matrix">
+            <rows>1</rows>
+            <cols>2</cols>
+            <dt>f</dt>
+            <data>1.8187777622509432e+03 1.8187777622509432e+03</data>
+        </f>
+        <c type_id="opencv-matrix">
+            <rows>1</rows>
+            <cols>2</cols>
+            <dt>f</dt>
+            <data>9.5950000000000000e+02 5.3950000000000000e+02</data>
+        </c>
+    <extrinsic type_id="opencv-matrix">
+        <rows>1</rows>
+        <cols>3</cols>  <!-- alpha, beta, h -->
+        <dt>f</dt>
+        <data>5.99505 -0.845188 1.21962</data>
+    </extrinsic>
+        <framesToTrain>600</framesToTrain>
+        <framesToTest>600</framesToTest>
+        <initFrame>0</initFrame>
+        <refLane>left</refLane>
+        <u>376</u>
+        <v>790</v>
+        <w>1200</w>
+        <h>265</h>
+        <iV>0</iV>
+        <eV>240</eV>
+        <speedVeh>0.0</speedVeh>
+    </clip_i5s_0094>
+
+
+    <clip_i5s_0096>
+        <path_in>/datasets/i5s_BR116/</path_in>
+        <path_out>./out/</path_out>
+        <fileName>clip_i5s_0096.MOV</fileName>
+        <type_lane_marking>DASHED</type_lane_marking>
+        <f type_id="opencv-matrix">
+            <rows>1</rows>
+            <cols>2</cols>
+            <dt>f</dt>
+            <data>1.8187777622509432e+03 1.8187777622509432e+03</data>
+        </f>
+        <c type_id="opencv-matrix">
+            <rows>1</rows>
+            <cols>2</cols>
+            <dt>f</dt>
+            <data>9.5950000000000000e+02 5.3950000000000000e+02</data>
+        </c>
+    <extrinsic type_id="opencv-matrix">
+        <rows>1</rows>
+        <cols>3</cols>  <!-- alpha, beta, h -->
+        <dt>f</dt>
+        <data>5.99505 -0.845188 1.21962</data>
+    </extrinsic>
+        <framesToTrain>600</framesToTrain>
+        <framesToTest>400</framesToTest>
+        <initFrame>0</initFrame>
+        <refLane>left</refLane>
+        <u>376</u>
+        <v>790</v>
+        <w>1200</w>
+        <h>265</h>
+        <iV>0</iV>
+        <eV>240</eV>
+        <speedVeh>0.0</speedVeh>
+    </clip_i5s_0096>
+
+
+    <clip_i5s_0104>
+        <path_in>/datasets/i5s_BR116/</path_in>
+        <path_out>./out/</path_out>
+        <fileName>clip_i5s_0104.MOV</fileName>
+        <type_lane_marking>DASHED</type_lane_marking>
+        <f type_id="opencv-matrix">
+            <rows>1</rows>
+            <cols>2</cols>
+            <dt>f</dt>
+            <data>1.8187777622509432e+03 1.8187777622509432e+03</data>
+        </f>
+        <c type_id="opencv-matrix">
+            <rows>1</rows>
+            <cols>2</cols>
+            <dt>f</dt>
+            <data>9.5950000000000000e+02 5.3950000000000000e+02</data>
+        </c>
+    <extrinsic type_id="opencv-matrix">
+        <rows>1</rows>
+        <cols>3</cols>  <!-- alpha, beta, h -->
+        <dt>f</dt>
+        <data>5.99505 -0.845188 1.21962</data>
+    </extrinsic>
+        <framesToTrain>600</framesToTrain>
+        <framesToTest>500</framesToTest>
+        <initFrame>4618</initFrame>
+        <refLane>left</refLane>
+        <u>376</u>
+        <v>790</v>
+        <w>1200</w>
+        <h>265</h>
+        <iV>0</iV>
+        <eV>240</eV>
+        <speedVeh>0.0</speedVeh>
+    </clip_i5s_0104>
+
+</opencv_storage>
