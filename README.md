@@ -14,6 +14,18 @@ The dataset used in this work with the corresponding ground truth data, as well 
 
 Configuration
 =============
+**xml file**
+- path_in: path to the video file
+- fileName: video file name
+- initFrame: number of the first frame
+- framesToTrain: number of frames used to train the linear parabolic model
+- framesToTest: number of frames used to test the linear parabolic model
+
+** RoadMark.cpp file **
+```c
+setNewPathOut("/Users/maubrapa/Documents/adc_rlm_ovc_output/"); // output directory
+setPathToRoadMarkingsImages("./road_lane_images/"); // road lane images directory that will be used to show the type of the classified lane (dashed, solid, etc)
+```
 
 Running the code
 ================
