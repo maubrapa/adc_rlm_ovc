@@ -22,7 +22,7 @@
 
 #include "Definitions.h"
 
-#include "Timer.h"
+//#include "Timer.h"
 
 #include <unistd.h> // for execl and vfork
 
